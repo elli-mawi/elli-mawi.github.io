@@ -7,14 +7,14 @@ highlighter:         pygments
 permalink:           /:title
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
-name:				         site name
+timezone:            Europe/Vienna
+locale:              de_at # eg. en_us
+name:				         Mama, gibt's noch was?
 title:               site title
-tagline:             'tagline'
-description:         'description'
-url:                 site url
-rss:                 rss feed url
+tagline:             '#Rezepte #Gesundheit #Kräuter'
+description:         'Rezepte und mehr...'
+url:                 https://elli-mawi.github.io/
+rss:                 ''
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
@@ -24,7 +24,7 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Elisabeth Winter
   url:            	 your site url
   facebook:          username
   twitter:           username
